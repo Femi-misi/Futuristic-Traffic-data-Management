@@ -51,12 +51,12 @@ Data transformation was carried out using Power Query in Power BI.
 # 📊 Dashboard Preview
 
 ## Main Dashboard
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](screenshots/Traffic-data-dashboard-fullview.png)
 
 ---
 
 ## Traffic Density by City Analysis
-![Traffic Density by City](screenshots/traffic-density-by-city.png)
+![Traffic Density by City](screenshots/Traffic-density-by-city.png)
 
 ---
 
