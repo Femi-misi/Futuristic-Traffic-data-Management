@@ -17,7 +17,8 @@ This project analyzes futuristic traffic data to uncover patterns in traffic den
 ---
 
 ## 📂 Dataset
-- **Source:** Kaggle
+- 🔗 Kaggle Dataset:
+https://www.kaggle.com/datasets/tanishqdublish/urban-traffic-density-in-cities
 - **Dataset Type:** Futuristic Traffic Dataset
 - **Records Include:**
   - Vehicle Types
@@ -47,6 +48,17 @@ Data transformation was carried out using Power Query in Power BI.
 - Verified data integrity and consistency
 
 ---
+# 📊 Dashboard Preview
+
+## Main Dashboard
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+---
+
+## Traffic Density by City Analysis
+![Traffic Density by City](screenshots/traffic-density-by-city.png)
+
+---
 
 ## 📊 Dashboard Features
 - Traffic Density Analysis by City
@@ -59,10 +71,11 @@ Data transformation was carried out using Power Query in Power BI.
 ---
 
 ## 🔍 Key Insights
-- Urban cities experienced significantly higher traffic density.
+- MetropolisX and AquaCity recorded the highest traffic density
 - Peak congestion commonly occurred during weekday mornings and evenings.
 - Adverse weather conditions contributed to increased traffic density.
 - Vehicle speed reduced significantly during peak congestion periods.
+- Vehicle distribution varied across futuristic smart cities.
 
 ---
 
